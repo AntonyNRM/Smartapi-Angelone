@@ -5,3 +5,5 @@ Features Order Placement: Place orders on Angel One. Stoploss: Set a Stoploss or
 Requirements Python 3.x Angel One API credentials Telegram API credentials Required Python libraries (see requirements.txt)
 
 *** FELL FREE TO MODIFY THE TRAILING SL CODE AND ADD YOUR API KEY AND OTHER DETAILS FOR EASY TRADING
+
+If you find error while installing smartapi, message for the same at furian002@gmail.com
